@@ -1,0 +1,12 @@
+/* src/components/Footer.css */
+
+.footer {
+    background-color: #990012; /* Same color as the navbar for consistency */
+    color: white;
+    text-align: center;
+    padding: 15px;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for a subtle effect */
+    font-size: 1em;
+}

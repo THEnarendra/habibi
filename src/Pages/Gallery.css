@@ -1,0 +1,33 @@
+/* src/pages/Gallery.css */
+
+.gallery-container {
+    padding: 20px;
+}
+
+.gallery-section {
+    margin-bottom: 40px;
+}
+
+.gallery-section h2 {
+    margin-bottom: 20px;
+    font-size: 2em;
+    color: #990012; /* Match your theme color */
+}
+
+.gallery-item {
+    margin-bottom: 20px;
+}
+
+.gallery-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow */
+}
+
+/* Responsive adjustments */
+@media (max-width: 576px) {
+    .gallery-item {
+        margin-bottom: 15px;
+    }
+}
