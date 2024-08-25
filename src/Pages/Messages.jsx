@@ -57,6 +57,8 @@ const Messages = () => {
             <h2 className='text-center'>ab msg padhne ka itna hi shok h to tere pass saare pade h....</h2>
             <h1>padh lena 😊</h1>
             <p>M so rha hu ab 😉</p>
+            <h2 className='text-center'> Itna Bhi Gussa mt hua kr 🥺</h2>
+            <p className='text-center' style={{fontSize: "20px"}}>Isme upr dekh tera fav. color use kia h <span style={{color: "#990012"}}>Wine Red 😊</span></p>
         </Container>
     );
 };

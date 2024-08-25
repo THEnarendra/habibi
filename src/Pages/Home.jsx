@@ -10,7 +10,7 @@ const Home = () => {
         <Container className="home-container">
             <Row className="align-items-center">
                 <Col md={12} className="text-center">
-                    <h1>HABIBI🥰</h1>
+                    <h1 style={{color:"#990012"}}>HABIBI🥰</h1>
                     <h2>Jaldbazi m yahi bana h!!😊</h2>
                     <p>
                         Mujhe Pta h message Dekhne ka time nhi mila hoga
