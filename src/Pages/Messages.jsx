@@ -59,6 +59,7 @@ const Messages = () => {
             <p>M so rha hu ab 😉</p>
             <h2 className='text-center'> Itna Bhi Gussa mt hua kr 🥺</h2>
             <p className='text-center' style={{fontSize: "20px"}}>Isme upr dekh tera fav. color use kia h <span style={{color: "#990012"}}>Wine Red 😊</span></p>
+            <p className='text-center'>Mera Sach m bhot bhot bhot man tha tere saath movie dekhne ka 🥺</p>
         </Container>
     );
 };
